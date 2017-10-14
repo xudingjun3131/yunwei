@@ -4,7 +4,7 @@
 import os
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 CMDB_VERSION = '1.0'
-CMDB_NAME = "测试CMDB"
+CMDB_NAME = "ITGANK_CMDB"
 
 
 # Quick-start development settings - unsuitable for production
